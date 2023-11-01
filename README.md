@@ -28,3 +28,5 @@ This app will provide with a full .json file with the post body.
 generate.py "best 3 AI image generation of 2023" "img_gen1" 3
 ```
 
+## License
+MIT License
