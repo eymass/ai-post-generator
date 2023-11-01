@@ -1,0 +1,55 @@
+{
+  "type": "MULTI_PRODUCTS_PROMOTION",
+  "categories": [
+    "BEAUTY"
+  ],
+  "author": {
+    "firstName": "Example name",
+    "lastName": "Example name",
+    "name": "Example name",
+    "avatar": "authors/Example avatar"
+  },
+  "title": "title of the post",
+  "urlTitle": "title-of-the-post",
+  "intro":
+    "intro of the post - 1 liner",
+  "paragraphs": [
+    {
+      "text":
+        "example post introduction paragraph, this paragraph should be engaging and make the reader\n        want to read the rest of the post, it should be written in a friendly and professional tone"
+    }
+  ],
+  "products": [
+    {
+      "title": "product title",
+      "subtitle": "product subtitle",
+      "brand": "product brand in one word",
+      "flow": [{
+        "type": "text",
+        "value": "3-4 line example product overview paragraph"
+      }],
+      "rating": 5,
+      "images": [{
+        "src": "multiroomspeaker_amazon"
+      }],
+      "comparison": {
+        "pros": [
+          "example pro"
+        ],
+        "cons": [
+          "example con"
+        ]
+      },
+      "key": "product key/asin",
+      "buyLinks": [{
+        "seller": "amazon",
+        "link": "my amazon affiliate link to the product includes my tag topmagz01-20"
+      }]
+    }
+  ],
+  "comments": [
+    {
+      "name": "Sarah",
+      "text": "example comment about the post or one of the products"
+    }]
+}
